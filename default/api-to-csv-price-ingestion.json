@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1770722255756,
+    "description" : "Gets data from an crypto API, checks if there are price variation further than a threshold and then store it into a CSV",
+    "identifier" : "api-to-csv-price-ingestion",
+    "lastModifiedTimestamp" : 1770722255756,
+    "name" : "api-to-csv-price-ingestion",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
